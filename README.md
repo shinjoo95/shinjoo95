@@ -1,10 +1,10 @@
 ### Hi there 👋, my name is Jooyong
 #### I wanna be a Front-End Developer
 
-Skills: HTML / CSS / JS / REACT
+Skills: HTML / CSS / JS / VUE.JS
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning HTML / CSS / JS / REACT 
+- 🌱 I’m currently learning HTML / CSS / JS / VUE.JS
 - 📫 How to reach me: shinjoo95@naver.com 
 
 
