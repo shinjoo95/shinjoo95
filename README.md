@@ -4,7 +4,7 @@
 Skills: HTML / CSS / JS / VUE.JS
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning HTML / CSS / JS / VUE.JS
+- 🌱 I’m currently learning HTML / CSS / JS / Vue.js / FLUTTER
 - 📫 How to reach me: shinjoo95@naver.com 
 
 
