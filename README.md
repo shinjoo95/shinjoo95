@@ -1,10 +1,8 @@
 ### Hi there 👋, my name is Jooyong
 #### I wanna be a Front-End Developer
 
-Skills: HTML / CSS / JS / VUE.JS / FLUTTER
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning HTML / CSS / JS / Vue.js / FLUTTER
 - 📫 How to reach me: shinjoo95@naver.com 
 
 
